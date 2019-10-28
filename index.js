@@ -1,1 +1,1 @@
-module.exports = require('./lit-html')
+module.exports = require('../lit-html')
